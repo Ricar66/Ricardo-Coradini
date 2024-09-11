@@ -1,3 +1,5 @@
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+
 - 👋 Hi, I’m @Ricar66
 - 👀 I’m interested in sempre aprender o maximo e desenvolver meu potencial 
 - 🌱 I’m currently learning estou aprendendo Mysql tambem C# no curso de assistente de desenvolvimento de aplicativos computacionais do SENAC
