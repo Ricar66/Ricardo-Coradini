@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning estou aprendendo Mysql tambem C# no curso de assistente de desenvolvimento de aplicativos computacionais do SENAC
 - 💞️ I’m looking to collaborate on trabalhos e projetos 
 - 📫 How to reach me (35 99935-8856)
-
+github-contribution-grid-snake.svg
 
 <!---
 Ricar66/Ricar66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
