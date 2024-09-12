@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/" height = 260 />
 
 - 👋 Hi, I’m @Ricar66
 - 👀 I’m interested in sempre aprender o maximo e desenvolver meu potencial 
