@@ -1,5 +1,15 @@
 
 # Seja Bem Vindo ao Meu Perfil
+👋 Olá! Bem-vindo ao meu GitHub! 🚀
+
+Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender e evoluir. Aqui você encontra projetos que refletem minha jornada, estudos e desafios na programação.
+
+💻 Explorando Front-end, Back-end e Banco de Dados
+📚 Estudando Python, JavaScript, C# e Django
+⚡ Interessado em Desenvolvimento Web, APIs e Gamificação
+
+Sinta-se à vontade para explorar e contribuir! Vamos construir juntos. 🚀
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricar66&layout=compact&langs_count=7&theme=dracula"/>
